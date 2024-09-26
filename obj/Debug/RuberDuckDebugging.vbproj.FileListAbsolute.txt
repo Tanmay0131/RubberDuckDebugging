@@ -1,0 +1,11 @@
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\bin\Debug\RuberDuckDebugging.exe.config
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\bin\Debug\RuberDuckDebugging.exe
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\bin\Debug\RuberDuckDebugging.pdb
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\bin\Debug\RuberDuckDebugging.xml
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\obj\Debug\RuberDuckDebugging.vbproj.AssemblyReference.cache
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\obj\Debug\RuberDuckDebugging.Resources.resources
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\obj\Debug\RuberDuckDebugging.vbproj.GenerateResource.cache
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\obj\Debug\RuberDuckDebugging.vbproj.CoreCompileInputs.cache
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\obj\Debug\RuberDuckDebugging.exe
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\obj\Debug\RuberDuckDebugging.xml
+H:\Visual Basic Console\RubberDuckDebugging\RuberDuckDebugging\obj\Debug\RuberDuckDebugging.pdb

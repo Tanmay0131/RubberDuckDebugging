@@ -1,0 +1,93 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RuberDuckDebugging
+</name>
+</assembly>
+<members>
+<member name="T:RuberDuckDebugging.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RuberDuckDebugging.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RuberDuckDebugging.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:RuberDuckDebugging.Module1.printDuck">
+ <summary>
+ prints duck every time so the console.clear doesn't get rid of it
+ </summary>
+</member>
+<member name="M:RuberDuckDebugging.Module1.printDuck2">
+ <summary>
+ another duck
+ </summary>
+</member>
+<member name="M:RuberDuckDebugging.Module1.printDuck3">
+ <summary>
+ a thrid duck
+ </summary>
+</member>
+<member name="M:RuberDuckDebugging.Module1.problem(System.Int32)">
+ <summary>
+ prompts the user for a problem and returns it
+ </summary>
+ <param name="rand"></param>
+ <returns></returns>
+</member>
+<member name="M:RuberDuckDebugging.Module1.crashing">
+ <summary>
+ asks the user if the program is crashing and returns wether it is or not
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:RuberDuckDebugging.Module1.googleSearch">
+ <summary>
+ asks the user for google searches and stores them in global variables
+ </summary>
+</member>
+<member name="M:RuberDuckDebugging.Module1.rephrase(System.Int32)">
+ <summary>
+ asks the user for a rephrased problem and then returns it
+ </summary>
+ <param name="rand"></param>
+ <returns></returns>
+</member>
+<member name="M:RuberDuckDebugging.Module1.askAnyone">
+ <summary>
+ gets the name of the person the user asked and what they said, storing them in global variables
+ </summary>
+</member>
+<member name="M:RuberDuckDebugging.Module1.problemAgain">
+ <summary>
+ prompts the user for a problem again and returns it
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:RuberDuckDebugging.Module1.helpBoardLog(System.Object,System.Object,System.Object,System.Object)">
+ <summary>
+ prints out the help board using arguments and global variables
+ </summary>
+ <param name="probDescrip"></param>
+ <param name="crashing"></param>
+ <param name="probRephrased"></param>
+ <param name="probAgain"></param>
+</member>
+<member name="M:RuberDuckDebugging.Module1.CheckIfValidInput(System.String)">
+ <summary>
+ makes sure the user provides a response, otherwise the prompt is repeated
+ </summary>
+ <param name="prompt"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>
